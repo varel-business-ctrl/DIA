@@ -1,0 +1,8 @@
+[
+  {
+    "claim_id": "C-001",
+    "statement": "Water freezes at 0 degrees Celsius",
+    "confidence": 0.8,
+    "status": "supported"
+  }
+]

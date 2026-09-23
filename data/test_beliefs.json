@@ -1,0 +1,9 @@
+[
+  {
+    "claim_id": "C-001",
+    "status": "supported",
+    "confidence": 0.739,
+    "supporting_evidence": 2,
+    "contradicting_evidence": 1
+  }
+]

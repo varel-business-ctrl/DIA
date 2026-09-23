@@ -1,0 +1,9 @@
+[
+  {
+    "claim_id": "C-100",
+    "status": "uncertain",
+    "supporting_evidence": 2,
+    "contradicting_evidence": 1,
+    "net_confidence": 0.739
+  }
+]

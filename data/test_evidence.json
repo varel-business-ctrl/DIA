@@ -1,0 +1,9 @@
+[
+  {
+    "claim_id": "C-001",
+    "source": "source_A",
+    "evidence": "Water freezes at 0 degrees Celsius",
+    "confidence": 0.9,
+    "relationship": "supports"
+  }
+]
